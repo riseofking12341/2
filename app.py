@@ -1,5 +1,5 @@
 import streamlit as st
-from googlenews import GoogleNews
+from Googlenews import GoogleNews
 import openai
 
 st.set_page_config(page_title="Smart Nyhetsanalys", layout="centered")
